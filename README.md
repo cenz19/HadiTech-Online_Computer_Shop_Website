@@ -1,5 +1,6 @@
 # 🌐Website link
-[Hadi Tech]([https://www.haditech.com](https://haditech.netlify.app/))
+<a href="https://haditech.netlify.app/">Click Here to see the website</a>
+
 
 
 
