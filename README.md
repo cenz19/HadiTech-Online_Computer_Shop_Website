@@ -1,5 +1,8 @@
-# 🌐Website link
-<a href="https://haditech.netlify.app/" target="_blank" rel="noopener noreferrer">Click here to see the website.</a><br>
+# 🌐Welcome to Hadi Tech
+<a href="https://haditech.netlify.app/">here</a>
+<p>At Hadi Tech, we are dedicated to providing high-quality technology products and services to our customers. Our goal is to offer a wide range of computer hardware, software, and accessories to meet the needs of individuals and businesses alike. Whether you are a casual user or a tech enthusiast, we strive to provide exceptional customer service and expertise to ensure that you find the perfect solutions for your computing needs.</p>
+<p></p>
+<p>Visit our website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
 ![image](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/ce0a14fa-8959-4e72-8dd2-2a076ebe9ee6)
 
 
