@@ -1,12 +1,8 @@
-# 🌐Welcome to Hadi Tech
-<p>At Hadi Tech, we are dedicated to providing high-quality technology products and services to our customers. Our goal is to offer a wide range of computer hardware, software, and accessories to meet the needs of individuals and businesses alike. Whether you are a casual user or a tech enthusiast, we strive to provide exceptional customer service and expertise to ensure that you find the perfect solutions for your computing needs.</p>
-<p></p>
-<p>Visit our website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
+# 👨‍💻Hadi Tech Online Computer Shop Website
+<p>This professionally designed front-end project for the Hadi Tech website excels in performance, passing Lighthouse testing and optimizing all images. It fully supports Safari browser, includes a favicon, and has a meta description. Experience seamless navigation and exceptional customer service in the world of technology.</p>
+<p>Visit my website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
 
 ![hero](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/a641f6a4-827d-4c19-bfcd-37c4249997dc)
-
-# 👨‍💻Hadi Tech Online Computer Shop Website
-This professionally designed front-end project for the Hadi Tech website excels in performance, passing Lighthouse testing and optimizing all images. It fully supports Safari browser, includes a favicon, and has a meta description. Experience seamless navigation and exceptional customer service in the world of technology.
 
 # 🤔What is Lighthouse ?
 Lighthouse is a web performance auditing tool provided by Google. It analyzes web pages and provides valuable insights on performance, accessibility, best practices, and SEO (search engine optimization). By running Lighthouse, developers can identify areas for improvement and optimize their websites for better user experiences, faster loading times, and increased accessibility. It is a valuable tool for enhancing web performance and ensuring that websites meet industry standards.
