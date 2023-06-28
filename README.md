@@ -1,5 +1,5 @@
 # 🌐Website link
-<a href="https://haditech.netlify.app/" target="_blank">Click Here to see the website</a>
+<a href="https://haditech.netlify.app/" target="_blank" rel="noopener noreferrer">Click Here to see the website</a>
 [Click Here to see the website](https://haditech.netlify.app/){:target="_blank"}
 
 
