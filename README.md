@@ -1,5 +1,7 @@
 # 🌐Website link
 <a href="https://haditech.netlify.app/" target="_blank" rel="noopener noreferrer">Click here to see the website.</a>
+![image](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/ce0a14fa-8959-4e72-8dd2-2a076ebe9ee6)
+
 
 # 👨‍💻Hadi Tech Online Computer Shop Website
 This professionally designed front-end project for the Hadi Tech website excels in performance, passing Lighthouse testing and optimizing all images. It fully supports Safari browser, includes a favicon, and has a meta description. Experience seamless navigation and exceptional customer service in the world of technology.
