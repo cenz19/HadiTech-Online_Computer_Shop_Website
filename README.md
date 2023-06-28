@@ -3,8 +3,8 @@
 <p>At Hadi Tech, we are dedicated to providing high-quality technology products and services to our customers. Our goal is to offer a wide range of computer hardware, software, and accessories to meet the needs of individuals and businesses alike. Whether you are a casual user or a tech enthusiast, we strive to provide exceptional customer service and expertise to ensure that you find the perfect solutions for your computing needs.</p>
 <p></p>
 <p>Visit our website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
-![image](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/ce0a14fa-8959-4e72-8dd2-2a076ebe9ee6)
 
+![hero](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/a641f6a4-827d-4c19-bfcd-37c4249997dc)
 
 # 👨‍💻Hadi Tech Online Computer Shop Website
 This professionally designed front-end project for the Hadi Tech website excels in performance, passing Lighthouse testing and optimizing all images. It fully supports Safari browser, includes a favicon, and has a meta description. Experience seamless navigation and exceptional customer service in the world of technology.
