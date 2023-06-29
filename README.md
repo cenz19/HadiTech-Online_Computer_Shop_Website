@@ -10,8 +10,7 @@ Lighthouse is a web performance auditing tool provided by Google. It analyzes we
 # 🔥Overall Testing Performance
 ![overall](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/6f4c6b09-c77f-4380-9d06-dae0c5b008cf)
 <p>The Hadi Tech website has undergone comprehensive testing, yielding exceptional results across 
-  multiple aspects. With a remarkable 99 out of 100 on performance, the website delivers fast loading times and o
-  ptimal responsiveness. Scoring 95 out of 100 on accessibility, it ensures a user-friendly experience for individuals 
+  multiple aspects. With a remarkable 99 out of 100 on performance, the website delivers fast loading times and optimal responsiveness. Scoring 95 out of 100 on accessibility, it ensures a user-friendly experience for individuals 
   with diverse needs. The website also achieves a score of 92 out of 100 on best practices, demonstrating adherence to industry 
   standards and optimal coding practices. Furthermore, with a perfect score of 100 out of 100 on SEO, the website is well-optimized 
   for search engines, enhancing its visibility and reach. Explore the Hadi Tech website to experience its outstanding performance, 
