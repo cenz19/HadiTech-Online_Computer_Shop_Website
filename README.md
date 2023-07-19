@@ -4,6 +4,11 @@
 
 ![hero](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/a641f6a4-827d-4c19-bfcd-37c4249997dc)
 
+# 🖥Technologies Used in this Project
+1. HTML5
+2. CCSS
+3. JavaScript (vanilla)
+
 # 🤔What is Lighthouse ?
 Lighthouse is a web performance auditing tool provided by Google. It analyzes web pages and provides valuable insights on performance, accessibility, best practices, and SEO (search engine optimization). By running Lighthouse, developers can identify areas for improvement and optimize their websites for better user experiences, faster loading times, and increased accessibility. It is a valuable tool for enhancing web performance and ensuring that websites meet industry standards.
 
