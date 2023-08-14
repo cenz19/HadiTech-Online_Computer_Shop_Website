@@ -6,7 +6,7 @@
 
 # 🖥Technologies Used in this Project
 1. HTML5
-2. CCSS
+2. CSS
 3. JavaScript (vanilla)
 
 # 🤔What is Lighthouse ?
