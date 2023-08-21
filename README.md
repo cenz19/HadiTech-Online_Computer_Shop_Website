@@ -81,8 +81,8 @@ Lighthouse is a web performance auditing tool provided by Google. It analyzes we
 <p>With impeccable SEO implementation, the Hadi Tech website is well-optimized for search engines, resulting in improved visibility and discoverability.</p>
 
 ## 📟Data Gathering
-![noip](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/9ef1e1de-cda2-4563-85b8-27d214e5cc4a)
 
+![image](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/1601c97c-207c-495e-bce2-3ba2f10970da)
 The Hadi Tech Online Computer Shop Website employs a seamless data gathering process facilitated by the integration of Netlify forms. When visitors interact with the website's forms, such as inquiries or feedback submissions, the data they input is meticulously captured and stored for further analysis and engagement.
 
 ### Form Integration with Netlify
@@ -107,6 +107,6 @@ The data gathering process is designed to be seamless and user-friendly, alignin
 
 ### Downloadable CSV Files
 
-![image](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/d20f9b9b-e4f7-43ad-9ace-8a266ee7ca7d)
+![noip](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/9ef1e1de-cda2-4563-85b8-27d214e5cc4a)
 One of the advantages of utilizing Netlify for data gathering is the ability to download the collected data as CSV files. This feature simplifies data analysis and allows for easy sharing and collaboration within the team. Users can conveniently download the CSV files containing the submitted data for further processing and reporting.
 
