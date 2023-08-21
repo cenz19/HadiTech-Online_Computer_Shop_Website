@@ -1,6 +1,6 @@
 # 👨‍💻Hadi Tech Online Computer Shop Website
 <p>This professionally designed front-end project for the Hadi Tech website excels in performance, passing Lighthouse testing and optimizing all images. It fully supports Safari browser, includes a favicon, and has a meta description. Experience seamless navigation and exceptional customer service in the world of technology.</p>
-<p>Visit my website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
+<p>Visit the website <a href="https://haditech.netlify.app/">here</a> to explore our products and services.</p>
 
 ![hero](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/a641f6a4-827d-4c19-bfcd-37c4249997dc)
 
