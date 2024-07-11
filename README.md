@@ -23,7 +23,7 @@ Lighthouse is a web performance auditing tool provided by Google. It analyzes we
 
 ## 🏃‍♂️Performance Metrics
 ![performance](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/967aaf30-cde7-4465-a6cb-99f2268ed32d)
-<br>
+<p></p>
 ![metrics performance](https://github.com/cenz19/HadiTech-Online_Computer_Shop_Website/assets/86843417/cd551c90-14d9-4097-b64d-8707bf85125d)
 <p>The Hadi Tech website achieves exceptional performance metrics, ensuring a smooth and responsive user experience. 
   With a First Contentful Paint, Largest Contentful Paint, and Speed Index of only 0.5 seconds, the website loads quickly, 
